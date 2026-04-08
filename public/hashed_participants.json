@@ -1,0 +1,1430 @@
+{
+  "_meta": {
+    "generated": "2026-04-08T10:35:38.805Z",
+    "totalParticipants": 142,
+    "source": "participants.csv",
+    "note": "Scan QR codes containing these UUIDs to test"
+  },
+  "participants": {
+    "79fc900f-b6c1-4b50-be11-2188ffc53ed4": {
+      "name": "Souvik Kundu",
+      "uuid": "79fc900f-b6c1-4b50-be11-2188ffc53ed4",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "f9e6ad64-b9ff-4957-b9e5-fc3738973f79": {
+      "name": "Neel Das",
+      "uuid": "f9e6ad64-b9ff-4957-b9e5-fc3738973f79",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "cb04c34f-be76-48c2-a481-7924b8f902c8": {
+      "name": "Debasis Khamari",
+      "uuid": "cb04c34f-be76-48c2-a481-7924b8f902c8",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "5b6c8f2c-eec9-4c08-8009-b5fc8f6b0ac7": {
+      "name": "SUBHAJIT PATHAK",
+      "uuid": "5b6c8f2c-eec9-4c08-8009-b5fc8f6b0ac7",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "d026cdb6-be16-433e-90bc-958a80505f2f": {
+      "name": "Priyangshu Roy",
+      "uuid": "d026cdb6-be16-433e-90bc-958a80505f2f",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "1b07f99f-f6b8-43af-baba-a0a1ab261385": {
+      "name": "Agniva Mukherjee",
+      "uuid": "1b07f99f-f6b8-43af-baba-a0a1ab261385",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "7f4edadf-fbe7-4071-9444-88c9ab6f5911": {
+      "name": "swarnavo bagchi",
+      "uuid": "7f4edadf-fbe7-4071-9444-88c9ab6f5911",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "b7b1c68b-ead1-48ac-8e23-015cc135a453": {
+      "name": "Saptarshi Mukhopadhyay",
+      "uuid": "b7b1c68b-ead1-48ac-8e23-015cc135a453",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c928129d-b00e-4ca7-a491-c03b8798e741": {
+      "name": "Rajesh Sardar",
+      "uuid": "c928129d-b00e-4ca7-a491-c03b8798e741",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "7703901f-8361-4d20-ba82-f3a8f92e4b4f": {
+      "name": "Sattam Das",
+      "uuid": "7703901f-8361-4d20-ba82-f3a8f92e4b4f",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "3d2acc6e-036d-464b-bb26-a4082dbbb186": {
+      "name": "Subhajit Jati",
+      "uuid": "3d2acc6e-036d-464b-bb26-a4082dbbb186",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "acb37b82-8f4f-48aa-92d6-4b2bb6bbedb0": {
+      "name": "Sumit Mishra",
+      "uuid": "acb37b82-8f4f-48aa-92d6-4b2bb6bbedb0",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "d74a8600-906f-40e1-9885-d1d24cb2487b": {
+      "name": "Somsubhro Karmakar",
+      "uuid": "d74a8600-906f-40e1-9885-d1d24cb2487b",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "aac8cd8b-5ee1-41e9-81a0-360c8915664e": {
+      "name": "Sneha Das",
+      "uuid": "aac8cd8b-5ee1-41e9-81a0-360c8915664e",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "fafdcb6e-3ac3-491c-aea8-6dd1ebb59895": {
+      "name": "Soumadeep Shee",
+      "uuid": "fafdcb6e-3ac3-491c-aea8-6dd1ebb59895",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c11c9265-ebf6-47be-abd3-030ea107481a": {
+      "name": "Vivek Ghosh",
+      "uuid": "c11c9265-ebf6-47be-abd3-030ea107481a",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "3d1cc2e2-54be-4914-bf24-3b7ef0871a0e": {
+      "name": "Susmita Masat",
+      "uuid": "3d1cc2e2-54be-4914-bf24-3b7ef0871a0e",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "ed0a163c-4795-4a33-a058-29e9c45a7e7b": {
+      "name": "Soumya Chatterjee",
+      "uuid": "ed0a163c-4795-4a33-a058-29e9c45a7e7b",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a3d49060-f3a6-4ff1-a148-81134e4ac30e": {
+      "name": "Angela Bera",
+      "uuid": "a3d49060-f3a6-4ff1-a148-81134e4ac30e",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "cb92e337-fe05-49e4-a474-32e29b8a24d1": {
+      "name": "Akash Dutta",
+      "uuid": "cb92e337-fe05-49e4-a474-32e29b8a24d1",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "0d676da8-90c0-480a-a838-0053a97a196e": {
+      "name": "Subhadeep Ghosh",
+      "uuid": "0d676da8-90c0-480a-a838-0053a97a196e",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "efd4f4b4-ae0f-497c-bf12-bfb8cd96307c": {
+      "name": "Abhinav Singh",
+      "uuid": "efd4f4b4-ae0f-497c-bf12-bfb8cd96307c",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a8e48ad3-16f6-4399-b516-24fbf162546d": {
+      "name": "Anindya Maity",
+      "uuid": "a8e48ad3-16f6-4399-b516-24fbf162546d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "e90c76dc-012d-434d-8f48-630385904297": {
+      "name": "Kusal Hor",
+      "uuid": "e90c76dc-012d-434d-8f48-630385904297",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "6906e295-3a74-4bc5-9f4e-73d4cdf556af": {
+      "name": "Milan Das",
+      "uuid": "6906e295-3a74-4bc5-9f4e-73d4cdf556af",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "7d80cbc4-e4dc-405d-9314-3f69a0ee13e4": {
+      "name": "Sumana Mandal",
+      "uuid": "7d80cbc4-e4dc-405d-9314-3f69a0ee13e4",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "bece2b00-f4dc-49f4-856b-68dad0c16ab9": {
+      "name": "Vishal Kumbhkar",
+      "uuid": "bece2b00-f4dc-49f4-856b-68dad0c16ab9",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "6b60cda7-9c65-4ea0-b5f2-0e0f15a1e05c": {
+      "name": "Meraj Hussain",
+      "uuid": "6b60cda7-9c65-4ea0-b5f2-0e0f15a1e05c",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "3a774012-23db-4f5f-a053-7c64d249fc01": {
+      "name": "Pratyush Pandey",
+      "uuid": "3a774012-23db-4f5f-a053-7c64d249fc01",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "07c72226-3be7-4158-bea7-fe64eea2f52d": {
+      "name": "Souptik Pal",
+      "uuid": "07c72226-3be7-4158-bea7-fe64eea2f52d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a9046a8f-fb3d-4a5a-86e4-f2bba113558b": {
+      "name": "Sayak Adak",
+      "uuid": "a9046a8f-fb3d-4a5a-86e4-f2bba113558b",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "39853fd8-09cf-49bb-8223-db58c5475ad2": {
+      "name": "Urjita Paul",
+      "uuid": "39853fd8-09cf-49bb-8223-db58c5475ad2",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "615e60c3-87c7-4ad5-b093-370004d6dc55": {
+      "name": "Bithika Purkait",
+      "uuid": "615e60c3-87c7-4ad5-b093-370004d6dc55",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "091ce358-96e6-4ad5-8641-61ff6dcf99a6": {
+      "name": "Tuheli Das",
+      "uuid": "091ce358-96e6-4ad5-8641-61ff6dcf99a6",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "5e6de585-c479-4c00-8944-bb71fce55cdb": {
+      "name": "Srijan Dey",
+      "uuid": "5e6de585-c479-4c00-8944-bb71fce55cdb",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "592f00b3-665a-489e-b10e-1b3e95995c98": {
+      "name": "Raunak Biswas",
+      "uuid": "592f00b3-665a-489e-b10e-1b3e95995c98",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "2f16e58d-24dc-49a8-8e3a-0205d52058ca": {
+      "name": "Tirthankar Das",
+      "uuid": "2f16e58d-24dc-49a8-8e3a-0205d52058ca",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "ab29ff6e-304f-4fc4-ac59-6d34c7e98805": {
+      "name": "Shovan Goswami",
+      "uuid": "ab29ff6e-304f-4fc4-ac59-6d34c7e98805",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "f23c6db1-e069-4d70-b3c5-4ed50aed2a99": {
+      "name": "Sayani Halder",
+      "uuid": "f23c6db1-e069-4d70-b3c5-4ed50aed2a99",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "738dd163-0228-4fbc-b74b-70ff047cf007": {
+      "name": "Sourish Nandi",
+      "uuid": "738dd163-0228-4fbc-b74b-70ff047cf007",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "08e0d0bd-46d5-4065-8469-30351a086c68": {
+      "name": "Rupak Ghosh",
+      "uuid": "08e0d0bd-46d5-4065-8469-30351a086c68",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "75ce7e4c-b012-4d9b-98f0-a748d1fea45a": {
+      "name": "Anirban Samdder",
+      "uuid": "75ce7e4c-b012-4d9b-98f0-a748d1fea45a",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "47ce699d-9574-4ab0-b763-b3feb3796ecf": {
+      "name": "Ruyam Bhattacharjee",
+      "uuid": "47ce699d-9574-4ab0-b763-b3feb3796ecf",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a972343c-b24e-492e-b37f-2d6ff5af8522": {
+      "name": "Arijit Chakraborty",
+      "uuid": "a972343c-b24e-492e-b37f-2d6ff5af8522",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "bd1034bf-f371-4fa8-8dcc-39d091f98d2d": {
+      "name": "Sumana Mondal",
+      "uuid": "bd1034bf-f371-4fa8-8dcc-39d091f98d2d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "42152a5e-b2c5-4e01-8d23-a32aad1a372d": {
+      "name": "Anik Gupta",
+      "uuid": "42152a5e-b2c5-4e01-8d23-a32aad1a372d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "bd50fd32-2aca-4101-90bd-2b8950dd028b": {
+      "name": "Rahul Raman",
+      "uuid": "bd50fd32-2aca-4101-90bd-2b8950dd028b",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "894b0df6-c769-4863-aab6-fa12e2216519": {
+      "name": "Debolina Dutta",
+      "uuid": "894b0df6-c769-4863-aab6-fa12e2216519",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "0ec4263c-d12b-426e-a57a-317ba60a59cf": {
+      "name": "Raika Dey",
+      "uuid": "0ec4263c-d12b-426e-a57a-317ba60a59cf",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "f06368af-c5f8-4249-abcc-cdfbd2d91fc9": {
+      "name": "Tista Pal",
+      "uuid": "f06368af-c5f8-4249-abcc-cdfbd2d91fc9",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "e4d6a05c-91fe-43a1-a733-2471031a8b8f": {
+      "name": "Arijit Ghosh",
+      "uuid": "e4d6a05c-91fe-43a1-a733-2471031a8b8f",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "6d73e85a-4992-4a31-b9f1-d572ffd1b513": {
+      "name": "Subhayu Panja",
+      "uuid": "6d73e85a-4992-4a31-b9f1-d572ffd1b513",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a1413355-cfc6-4b2a-af09-e6a630c5cd94": {
+      "name": "Supreme Dey",
+      "uuid": "a1413355-cfc6-4b2a-af09-e6a630c5cd94",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "0ad6eede-ba3d-40be-b596-985bfdf10e3d": {
+      "name": "Meghna Chatterjee",
+      "uuid": "0ad6eede-ba3d-40be-b596-985bfdf10e3d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "8e12a2a3-4f33-4892-a868-6a91feeb2f6f": {
+      "name": "SHINJAN DAS",
+      "uuid": "8e12a2a3-4f33-4892-a868-6a91feeb2f6f",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "e9347f4f-2f81-4451-9029-40c73d58f9e7": {
+      "name": "subham singh",
+      "uuid": "e9347f4f-2f81-4451-9029-40c73d58f9e7",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "ab34355e-8a85-4efd-8661-890275a30485": {
+      "name": "Rupak Chakraborty",
+      "uuid": "ab34355e-8a85-4efd-8661-890275a30485",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "09ea61e9-c73a-40ad-954f-8393795ecab0": {
+      "name": "Bishwajit Gorai",
+      "uuid": "09ea61e9-c73a-40ad-954f-8393795ecab0",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "705d96ec-f48e-4154-99f0-57ac7639b351": {
+      "name": "Akshay Paramanik",
+      "uuid": "705d96ec-f48e-4154-99f0-57ac7639b351",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "3f757154-7e4c-4dd9-bca5-9d4a2a6c340c": {
+      "name": "KARAMVEER VISHWAKARMA",
+      "uuid": "3f757154-7e4c-4dd9-bca5-9d4a2a6c340c",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "cc7883e0-5fcd-49ac-ac83-0bda96a26878": {
+      "name": "Tahseen Fatma",
+      "uuid": "cc7883e0-5fcd-49ac-ac83-0bda96a26878",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "4dc02ba5-99f1-4937-b345-796da05e9ccc": {
+      "name": "Suman Chattopadhyay",
+      "uuid": "4dc02ba5-99f1-4937-b345-796da05e9ccc",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "0aa268b4-093a-4a21-bfe4-34fc720b4ea7": {
+      "name": "Tirtha Sadhu",
+      "uuid": "0aa268b4-093a-4a21-bfe4-34fc720b4ea7",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "5f81d547-332b-4ec4-adec-640c282e516e": {
+      "name": "Sreejani Ganguly",
+      "uuid": "5f81d547-332b-4ec4-adec-640c282e516e",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c04c61ed-f5e6-4777-a17a-0eb83178d4f9": {
+      "name": "Susnata Mondal",
+      "uuid": "c04c61ed-f5e6-4777-a17a-0eb83178d4f9",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "697278b0-e421-459b-8613-53560c52a1f0": {
+      "name": "Soumya Chakraborty",
+      "uuid": "697278b0-e421-459b-8613-53560c52a1f0",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "5d69ea70-c413-497c-8596-b9be179dcf69": {
+      "name": "Sayan Mukherjee",
+      "uuid": "5d69ea70-c413-497c-8596-b9be179dcf69",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "aa81a759-fd35-4695-8a72-502038445e37": {
+      "name": "Sukrit Goswami",
+      "uuid": "aa81a759-fd35-4695-8a72-502038445e37",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "dd4b3b14-8dc1-4ea0-8f61-a8f947b495a6": {
+      "name": "Subhadip Paul",
+      "uuid": "dd4b3b14-8dc1-4ea0-8f61-a8f947b495a6",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "87f512c9-92e0-498a-9da8-1d93362d23e4": {
+      "name": "Tanisha Gupta",
+      "uuid": "87f512c9-92e0-498a-9da8-1d93362d23e4",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "2dd44dd3-19b8-462e-a06f-774c76bbc1d2": {
+      "name": "Bishal Prasad",
+      "uuid": "2dd44dd3-19b8-462e-a06f-774c76bbc1d2",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "280bad13-00e3-44d4-a054-f07a3f0c7b97": {
+      "name": "Ayushman Behera",
+      "uuid": "280bad13-00e3-44d4-a054-f07a3f0c7b97",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a3245cbc-b0bc-417a-99d1-9a35f0d66535": {
+      "name": "Pratyush Dutta",
+      "uuid": "a3245cbc-b0bc-417a-99d1-9a35f0d66535",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "eb136369-864e-4233-8bcd-809a5ee23b4b": {
+      "name": "Milon Paul",
+      "uuid": "eb136369-864e-4233-8bcd-809a5ee23b4b",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c03af997-7d97-4f5b-98c6-99bcafb7d431": {
+      "name": "Ayon Paul",
+      "uuid": "c03af997-7d97-4f5b-98c6-99bcafb7d431",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "4cd2c32b-2fa6-46b6-b1e6-63a4385ad501": {
+      "name": "Arnab Ghosh",
+      "uuid": "4cd2c32b-2fa6-46b6-b1e6-63a4385ad501",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "11ce1e2f-dfc6-46f7-bb01-d451bd66fd1e": {
+      "name": "Atique Ahmed",
+      "uuid": "11ce1e2f-dfc6-46f7-bb01-d451bd66fd1e",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "1c953dc6-7ea4-4642-89c0-8ca1a531cc41": {
+      "name": "Sabyasachi Garai",
+      "uuid": "1c953dc6-7ea4-4642-89c0-8ca1a531cc41",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "0975508c-0dfd-4004-a7f4-c030d7168170": {
+      "name": "Bhumi saraogi",
+      "uuid": "0975508c-0dfd-4004-a7f4-c030d7168170",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "5835b613-dc1e-4244-bf2d-c98c6adee796": {
+      "name": "Abhimanyu Sengupta",
+      "uuid": "5835b613-dc1e-4244-bf2d-c98c6adee796",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "cd13b3d4-deb9-489e-be35-6484d407c4f8": {
+      "name": "Swarnabha Bhattacharjee",
+      "uuid": "cd13b3d4-deb9-489e-be35-6484d407c4f8",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "6f1fe2b0-b6a2-49ba-8502-3d60b4f93738": {
+      "name": "Snigdha Mondal",
+      "uuid": "6f1fe2b0-b6a2-49ba-8502-3d60b4f93738",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "f59378f2-d2a7-4ad6-8687-a229660c0dc7": {
+      "name": "Abhirupa Mukherjee",
+      "uuid": "f59378f2-d2a7-4ad6-8687-a229660c0dc7",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "9735d9c5-1ac0-412c-8b64-0e05628570f2": {
+      "name": "Senjuti Ghosh",
+      "uuid": "9735d9c5-1ac0-412c-8b64-0e05628570f2",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "248ca393-a3b3-4060-ad6c-177aa1325ae7": {
+      "name": "Dipankar Bauri",
+      "uuid": "248ca393-a3b3-4060-ad6c-177aa1325ae7",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "572cc330-8b3d-4286-9e18-b13c4807516d": {
+      "name": "Anuska Dey",
+      "uuid": "572cc330-8b3d-4286-9e18-b13c4807516d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "17740af5-ca28-410b-88a9-bef2611ea877": {
+      "name": "Shivam Gupta",
+      "uuid": "17740af5-ca28-410b-88a9-bef2611ea877",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "7a3f01e6-7a7d-484d-8632-7f373cc169bf": {
+      "name": "Anusha Mitra",
+      "uuid": "7a3f01e6-7a7d-484d-8632-7f373cc169bf",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c099ea60-b901-4875-9350-beca44962702": {
+      "name": "Smriti Pradhan",
+      "uuid": "c099ea60-b901-4875-9350-beca44962702",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "81add375-e019-4724-bef3-34e5e72dda43": {
+      "name": "Sanjay Barui",
+      "uuid": "81add375-e019-4724-bef3-34e5e72dda43",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "992deb94-fa7b-465e-89a0-fc34f3776533": {
+      "name": "Susmita Gayen",
+      "uuid": "992deb94-fa7b-465e-89a0-fc34f3776533",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "70f0cd20-eaa3-4c38-a72b-f1ddda568fac": {
+      "name": "Subhodep Sarkar",
+      "uuid": "70f0cd20-eaa3-4c38-a72b-f1ddda568fac",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "1c2acc3e-8a86-454c-8353-16737f8ec383": {
+      "name": "Sujay Roy",
+      "uuid": "1c2acc3e-8a86-454c-8353-16737f8ec383",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "164283a0-fac1-45ad-9545-e77067e410a2": {
+      "name": "Soumyaditya Bauri",
+      "uuid": "164283a0-fac1-45ad-9545-e77067e410a2",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "0439c008-57db-441c-bae3-a3fd1e5ea14b": {
+      "name": "Pujan Sarkar",
+      "uuid": "0439c008-57db-441c-bae3-a3fd1e5ea14b",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "2e2a4494-6081-4619-8482-ce62e7ee278e": {
+      "name": "Ishita Modi",
+      "uuid": "2e2a4494-6081-4619-8482-ce62e7ee278e",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c1757756-0c49-4984-b0e3-2f70022e0f64": {
+      "name": "Nayanika Mukherjee",
+      "uuid": "c1757756-0c49-4984-b0e3-2f70022e0f64",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "7d61c9b9-e3b2-4a66-9f4a-4ff2aa8ad235": {
+      "name": "Akash Laha",
+      "uuid": "7d61c9b9-e3b2-4a66-9f4a-4ff2aa8ad235",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "53413d89-09eb-41e2-b241-bf407c46f69a": {
+      "name": "Nandini Pandey",
+      "uuid": "53413d89-09eb-41e2-b241-bf407c46f69a",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "92ecdb13-415d-4f45-afc0-adfac04aacf7": {
+      "name": "Priyanshu Singh",
+      "uuid": "92ecdb13-415d-4f45-afc0-adfac04aacf7",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "9fa8284b-0d92-447b-a425-c1278772d564": {
+      "name": "Shuvodip Hazra",
+      "uuid": "9fa8284b-0d92-447b-a425-c1278772d564",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "5ccc2a08-a53f-4ffc-bc60-9d485d7b12a8": {
+      "name": "Faculty 1",
+      "uuid": "5ccc2a08-a53f-4ffc-bc60-9d485d7b12a8",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c244aee2-1042-439e-a43d-019dcab0eff4": {
+      "name": "Faculty 2",
+      "uuid": "c244aee2-1042-439e-a43d-019dcab0eff4",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "63051529-93b9-4471-bb27-9db121347f51": {
+      "name": "Faculty 3",
+      "uuid": "63051529-93b9-4471-bb27-9db121347f51",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "561327c2-7f2b-4165-8d0c-2f24e70f4be3": {
+      "name": "Faculty 4",
+      "uuid": "561327c2-7f2b-4165-8d0c-2f24e70f4be3",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "b1163d90-e4a9-4893-b436-69768c36a8d6": {
+      "name": "Faculty 5",
+      "uuid": "b1163d90-e4a9-4893-b436-69768c36a8d6",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "e938153e-633d-446d-a835-c34c03f338e1": {
+      "name": "Faculty 6",
+      "uuid": "e938153e-633d-446d-a835-c34c03f338e1",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "12f5b751-a436-4759-b6b1-3a187db64978": {
+      "name": "Faculty 7",
+      "uuid": "12f5b751-a436-4759-b6b1-3a187db64978",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "bc576e90-be14-429c-9f73-0416be1b6e40": {
+      "name": "Faculty 8",
+      "uuid": "bc576e90-be14-429c-9f73-0416be1b6e40",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "ee62fdb9-4f3e-420b-b93a-a313aeaf43c5": {
+      "name": "Faculty 9",
+      "uuid": "ee62fdb9-4f3e-420b-b93a-a313aeaf43c5",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "f8f26461-0bf3-4262-a334-732996f07a26": {
+      "name": "Faculty 10",
+      "uuid": "f8f26461-0bf3-4262-a334-732996f07a26",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "16278dca-a2f8-44ad-8fc1-c8a4012051b6": {
+      "name": "Faculty 11",
+      "uuid": "16278dca-a2f8-44ad-8fc1-c8a4012051b6",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "d895c1ff-3dbf-4c5a-9af5-9fe96e71a8c8": {
+      "name": "Faculty 12",
+      "uuid": "d895c1ff-3dbf-4c5a-9af5-9fe96e71a8c8",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "b20a56b4-a63b-4568-a866-28f7bca5db0d": {
+      "name": "Faculty 13",
+      "uuid": "b20a56b4-a63b-4568-a866-28f7bca5db0d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "3b92db4c-c825-4c3d-86ee-aa6637a3aead": {
+      "name": "Faculty 14",
+      "uuid": "3b92db4c-c825-4c3d-86ee-aa6637a3aead",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "48faf09b-c9e8-46b7-a754-0046938c1d6b": {
+      "name": "Faculty 15",
+      "uuid": "48faf09b-c9e8-46b7-a754-0046938c1d6b",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "f672a7ca-879b-4163-8afa-81a6f41dd0ad": {
+      "name": "Faculty 16",
+      "uuid": "f672a7ca-879b-4163-8afa-81a6f41dd0ad",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "49dd8a04-4902-4513-abb3-a0dae99822b4": {
+      "name": "Faculty 17",
+      "uuid": "49dd8a04-4902-4513-abb3-a0dae99822b4",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "781a39ef-2f5c-4a09-ace5-22d14ebde010": {
+      "name": "Faculty 18",
+      "uuid": "781a39ef-2f5c-4a09-ace5-22d14ebde010",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "d8baa45b-1077-4743-8034-5186e7fbec8a": {
+      "name": "Faculty 19",
+      "uuid": "d8baa45b-1077-4743-8034-5186e7fbec8a",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a2290a83-2798-44e2-ad10-1e931f152c53": {
+      "name": "Faculty 20",
+      "uuid": "a2290a83-2798-44e2-ad10-1e931f152c53",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "0b88675e-cbea-4903-b21a-1be3b084095a": {
+      "name": "Faculty 21",
+      "uuid": "0b88675e-cbea-4903-b21a-1be3b084095a",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "8a3a98d6-54a8-4868-8dd6-febe7941f2b7": {
+      "name": "Faculty 22",
+      "uuid": "8a3a98d6-54a8-4868-8dd6-febe7941f2b7",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "d4e1ad5a-6bfe-48c5-82bf-0a29c160da68": {
+      "name": "Faculty 23",
+      "uuid": "d4e1ad5a-6bfe-48c5-82bf-0a29c160da68",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c0bd5f6d-db4b-41e0-a841-10add04ca748": {
+      "name": "Faculty 24",
+      "uuid": "c0bd5f6d-db4b-41e0-a841-10add04ca748",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "e4d1f2b4-d3c8-4c20-8353-845c019cd718": {
+      "name": "Faculty 25",
+      "uuid": "e4d1f2b4-d3c8-4c20-8353-845c019cd718",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c0612b42-5e26-4b3a-8094-b6d1b87c70c5": {
+      "name": "Faculty 26",
+      "uuid": "c0612b42-5e26-4b3a-8094-b6d1b87c70c5",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "85db5932-6d02-494f-819b-548a41904453": {
+      "name": "Faculty 27",
+      "uuid": "85db5932-6d02-494f-819b-548a41904453",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "c9e73594-a370-4c47-b7dc-ac25b0ea1713": {
+      "name": "Faculty 28",
+      "uuid": "c9e73594-a370-4c47-b7dc-ac25b0ea1713",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "2c017e59-d046-4dd4-9920-665e9d476358": {
+      "name": "Faculty 29",
+      "uuid": "2c017e59-d046-4dd4-9920-665e9d476358",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "a215a733-f9bc-4b29-9be0-a206f043e885": {
+      "name": "Faculty 30",
+      "uuid": "a215a733-f9bc-4b29-9be0-a206f043e885",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "6367057f-3474-4956-bed5-96cdd1353c64": {
+      "name": "Judge 1",
+      "uuid": "6367057f-3474-4956-bed5-96cdd1353c64",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "06b2a75f-1174-4f89-9ac1-1250da292473": {
+      "name": "Judge 2",
+      "uuid": "06b2a75f-1174-4f89-9ac1-1250da292473",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "87486ef8-15a2-4ee2-8b3e-beb0ae9ecf19": {
+      "name": "Judge 3",
+      "uuid": "87486ef8-15a2-4ee2-8b3e-beb0ae9ecf19",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "2eec3043-9896-4ce7-badc-747416a702c2": {
+      "name": "Judge 4",
+      "uuid": "2eec3043-9896-4ce7-badc-747416a702c2",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "2776aad5-93ce-4130-b82b-1fd99479fb19": {
+      "name": "Judge 5",
+      "uuid": "2776aad5-93ce-4130-b82b-1fd99479fb19",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "80a5ef6c-70f7-45cb-84d8-b0bfb10cb05d": {
+      "name": "Mentor 1",
+      "uuid": "80a5ef6c-70f7-45cb-84d8-b0bfb10cb05d",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "d94d29af-c1f6-4357-8524-6cdb653902a0": {
+      "name": "Mentor 2",
+      "uuid": "d94d29af-c1f6-4357-8524-6cdb653902a0",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "938c43cf-3447-4d4e-9118-522aa9d5fed3": {
+      "name": "Mentor 3",
+      "uuid": "938c43cf-3447-4d4e-9118-522aa9d5fed3",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "93df1787-f9d5-4ac7-abb8-bdf20dca9919": {
+      "name": "Mentor 4",
+      "uuid": "93df1787-f9d5-4ac7-abb8-bdf20dca9919",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "05bfcf88-ccd8-45f6-a2e5-3485cdd9cecd": {
+      "name": "Mentor 5",
+      "uuid": "05bfcf88-ccd8-45f6-a2e5-3485cdd9cecd",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    },
+    "143e413b-38e0-4fa7-9975-a7cd69c6efa2": {
+      "name": "Baishali Mukherjee",
+      "uuid": "143e413b-38e0-4fa7-9975-a7cd69c6efa2",
+      "meals": {
+        "breakfast": false,
+        "lunch": false,
+        "dinner": false,
+        "snacks": false
+      }
+    }
+  }
+}
