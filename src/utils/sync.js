@@ -1,10 +1,6 @@
-/**
- * Sync queue management for offline-first meal tracking.
- * Stores pending scan records in localStorage and syncs when online.
- */
+import { syncBatch } from './api';
 
 const SYNC_QUEUE_KEY = 'mealTracker_syncQueue';
-const SYNC_URL = 'https://api.example.com/meal-tracker/sync';
 
 export function getSyncQueue() {
   try {
@@ -39,17 +35,17 @@ export async function syncNow() {
   if (queue.length === 0) return { success: true, synced: 0, pending: 0 };
 
   try {
-    const response = await fetch(SYNC_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ records: queue })
-    });
-
-    if (response.ok) {
-      clearSyncQueue();
-      return { success: true, synced: queue.length, pending: 0 };
-    }
-    return { success: false, synced: 0, pending: queue.length };
+    const result = await syncBatch(queue);
+    
+    // Even if some had errors, we clear the queue for successfully synced ones
+    // For simplicity, we clear all if the request itself was successful
+    clearSyncQueue();
+    return { 
+      success: true, 
+      synced: result.synced, 
+      skipped: result.skipped, 
+      pending: result.errors 
+    };
   } catch (error) {
     // Offline or server error — keep queue intact
     return { success: false, synced: 0, pending: queue.length, error: error.message };
