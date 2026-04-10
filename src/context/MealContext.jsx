@@ -122,10 +122,10 @@ export function MealProvider({ children }) {
         uuid = input;
         participant = participants[input];
       } else {
-        // 2) Fall back to case-insensitive name search
+        // 2) Fall back to case-insensitive name or UUID search
         const searchTerm = input.toLowerCase();
         const match = Object.entries(participants).find(
-          ([, p]) => p.name.toLowerCase() === searchTerm
+          ([, p]) => p.name.toLowerCase().includes(searchTerm) || p.uuid.toLowerCase().includes(searchTerm)
         );
         if (match) {
           uuid = match[0];

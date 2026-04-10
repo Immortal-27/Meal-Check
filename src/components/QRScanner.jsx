@@ -12,6 +12,12 @@ export default function QRScanner() {
   const scannerRef = useRef(null);
   const containerRef = useRef(null);
 
+  // Keep a stable ref to handleScan to avoid restarting the camera when handleScan recreates
+  const handleScanRef = useRef(handleScan);
+  useEffect(() => {
+    handleScanRef.current = handleScan;
+  }, [handleScan]);
+
   // Camera scanner
   useEffect(() => {
     if (mode !== 'camera') {
@@ -39,8 +45,8 @@ export default function QRScanner() {
             aspectRatio: 1
           },
           (decodedText) => {
-            handleScan(decodedText);
-            // Brief pause after scan
+            // Use the ref here to always call the latest handleScan!
+            handleScanRef.current(decodedText);
           },
           () => {}
         );
@@ -61,7 +67,7 @@ export default function QRScanner() {
         html5QrCode.stop().catch(() => {});
       }
     };
-  }, [mode, handleScan]);
+  }, [mode]);
 
   const handleManualSubmit = (e) => {
     e.preventDefault();
