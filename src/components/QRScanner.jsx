@@ -22,7 +22,14 @@ export default function QRScanner() {
   useEffect(() => {
     if (mode !== 'camera') {
       if (scannerRef.current) {
-        scannerRef.current.stop().catch(() => {});
+        try {
+          scannerRef.current.stop().catch(() => {});
+        } catch (e) {
+          // Ignore synchronous throw if camera was not started
+        }
+        try {
+          scannerRef.current.clear();
+        } catch (e) {}
         scannerRef.current = null;
         setIsCameraActive(false);
       }
@@ -64,7 +71,11 @@ export default function QRScanner() {
 
     return () => {
       if (html5QrCode) {
-        html5QrCode.stop().catch(() => {});
+        try {
+          html5QrCode.stop().catch(() => {});
+        } catch (e) {
+          // Prevent sync throw from crashing React unmount pipeline
+        }
       }
     };
   }, [mode]);
